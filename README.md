@@ -1,4 +1,4 @@
-[![MasterHead](https://media2.giphy.com/media/fTmES2VdgRs5TgZN4a/giphy.gif?cid=ecf05e477b0ezpkvef02tuyf45tlmdcivwu89xppvwcmgjgk&ep=v1_gifs_search&rid=giphy.gif&ct=g)]
+[![MasterHead](https://camo.githubusercontent.com/70090fd5f88f9ccbc699639a7adf28a62bd2f044e7c509ae9972058c65b09994/68747470733a2f2f7468756d62732e647265616d7374696d652e636f6d2f622f736f6674776172652d646576656c6f706d656e742d627573696e6573732d70726f636573732d6175746f6d6174696f6e2d696e7465726e65742d746563686e6f6c6f67792d636f6e636570742d7669727475616c2d73637265656e2d736f6674776172652d646576656c6f706d656e742d3134333538373139362e6a7067)]
 <h1 align="center">Hi 👋, I'm Kamal</h1>
 <h3 align="center">A Curious Developer from India!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
